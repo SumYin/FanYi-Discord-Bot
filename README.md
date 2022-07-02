@@ -4,7 +4,7 @@
 
 Last Updated: 07/2/2022
 
-These Terms of Service (“Terms”) are a legal agreement between the owner of the FanYi Discord Bot (“we”, “us”, or “our”) and you (“you”, “User”, or “your”). By using the Forms Discord bot, the “Service”, you agree to be bound by these Terms, all applicable laws and regulations, and agree that you are responsible to comply with all applicable local laws and regulations. 
+These Terms of Service (“Terms”) are a legal agreement between the owner of the FanYi Discord Bot (“we”, “us”, or “our”) and you (“you”, “User”, or “your”). By using the FanYi Discord bot, the “Service”, you agree to be bound by these Terms, all applicable laws and regulations, and agree that you are responsible to comply with all applicable local laws and regulations. 
 
 Your usage of our Service is conditioned on your agreement and compliance with these Terms. These Terms apply to all users of our Service. If you disagree with these Terms, you are prohibited from using our Service. 
 
@@ -51,7 +51,7 @@ We reserve the right to modify or replace these Terms at any time. If we revise 
 
 Last Updated: 07/2/2022
 
-This Privacy Policy ("Policy") explains how information about your data is collected and used by the Owner of the Forms Discord bot (“our” or “we”) while using the FanYi Discord bot (the “Service”). By using our Service, you agree with this Policy.
+This Privacy Policy ("Policy") explains how information about your data is collected and used by the Owner of the FanYi Discord bot (“our” or “we”) while using the FanYi Discord bot (the “Service”). By using our Service, you agree with this Policy.
 
 **Data We Collect:** 
 To operate FanYi Discord Bot and in specific the Database we we might have to save some information about You, your Discord server and the members. 
